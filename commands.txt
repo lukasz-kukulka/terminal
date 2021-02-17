@@ -1,0 +1,100 @@
+   78  cd programing/
+   79  ls
+   80  mkdit lesson_linux_terminal
+   81  mkdir lesson_linux_terminal
+   82  ls
+   83  cd lesson_linux_terminal/
+   84  git init
+   85  git status
+   86  touch processes.txt
+   87  ls
+   88  ps aux
+   89  ps aux > processes.txt 
+   90  cat processes.txt 
+   91  clear
+   92  cp processes.txt  copy.txt
+   93  ls
+   94  cat copy.txt 
+   95  clear
+   96  mkdir kopia
+   97  ls
+   98  mv --helpmv --help
+   99  man mv
+  100  mv copy.txt /kopia
+  101  ls -la
+  102  chmod o-rwx
+  103  chmod o-rwx copy.txt 
+  104  mv copy.txt /kopia
+  105  ls -la
+  106  chmod g-rwx copy.txt 
+  107  ls -la
+  108  chmod 777 copy.txt 
+  109  ls -la
+  110  mv copy.txt /kopia
+  111  chmod 777 kopia/
+  112  mv copy.txt /kopia
+  113  ls -la
+  114  cd kopia/
+  115  mv ../copy.txt 
+  116  cd ..
+  117  mv copy.txt /kopia
+  118  mv -f -i copy.txt /kopia
+  119  mv -f -i copy.txt /kopia/copy.txt
+  120  ls -la
+  121  sudo mv -f -i copy.txt /kopia
+  122  ls
+  123  cd kopia/
+  124  ls
+  125  ls -la
+  126  cp processes.txt  copy.txt
+  127  cd ..
+  128  cp processes.txt  copy.txt
+  129  ls
+  130  sudo mv copy.txt /kopia
+  131  ls
+  132  cd kopia/
+  133  ls
+  134  cd ..
+  135  cp processes.txt  copy.txt
+  136  ls
+  137  rm kopia/
+  138  rmdir kopia/
+  139  mkdir kopia
+  140  ls
+  141  sudo mv copy.txt /kopia
+  142  ls
+  143  cd kopia/
+  144  ls
+  145  cp processes.txt  copy.txt
+  146  cd ..
+  147  cp processes.txt  copy.txt
+  148  ls
+  149  ls -la
+  150  mv copy.txt kopia/
+  151  ls
+  152  cd kopia/
+  153  ls
+  154  man vc
+  155  man wc
+  156  wc -l copy.txt 
+  157  wc -l >> copy.txt 
+  158  cat copy.txt 
+  159  ls
+  160  wc -l copy.txt 
+  161  echo wc -l copy.txt 
+  162  touch test.txt
+  163  ls
+  164  wc -l > test.txt 
+  165  wc -l copy.txt >> copy.txt 
+  166  cat copy.txt 
+  167  grep --colo /bin copy.txt 
+  168  rep --color /bin copy.txt >> copy.txt 
+  169  grep --color /bin copy.txt >> copy.txt 
+  170  grep /bin copy.txt >> copy.txt 
+  171  grep /bin copy.txt > test.txt; cat test.txt >> copy.txt 
+  172  cat copy.txt 
+  173  rm test.txt 
+  174  history
+  175  history | tail 
+  176  history | tail -n 100
+  177  history | tail -n 100 >> ../commands.txt

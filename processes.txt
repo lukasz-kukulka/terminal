@@ -1,0 +1,268 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 167896 10040 ?        Ss   Feb16   0:01 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    Feb16   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   Feb16   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   Feb16   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kworker/0:0H-kblockd]
+root           9  0.0  0.0      0     0 ?        I<   Feb16   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    Feb16   0:00 [ksoftirqd/0]
+root          11  0.0  0.0      0     0 ?        I    Feb16   0:14 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    Feb16   0:00 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    Feb16   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    Feb16   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    Feb16   0:00 [cpuhp/1]
+root          16  0.0  0.0      0     0 ?        S    Feb16   0:00 [idle_inject/1]
+root          17  0.0  0.0      0     0 ?        S    Feb16   0:01 [migration/1]
+root          18  0.0  0.0      0     0 ?        S    Feb16   0:00 [ksoftirqd/1]
+root          20  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kworker/1:0H-kblockd]
+root          21  0.0  0.0      0     0 ?        S    Feb16   0:00 [cpuhp/2]
+root          22  0.0  0.0      0     0 ?        S    Feb16   0:00 [idle_inject/2]
+root          23  0.0  0.0      0     0 ?        S    Feb16   0:00 [migration/2]
+root          24  0.0  0.0      0     0 ?        S    Feb16   0:00 [ksoftirqd/2]
+root          26  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kworker/2:0H]
+root          27  0.0  0.0      0     0 ?        S    Feb16   0:00 [cpuhp/3]
+root          28  0.0  0.0      0     0 ?        S    Feb16   0:00 [idle_inject/3]
+root          29  0.0  0.0      0     0 ?        S    Feb16   0:01 [migration/3]
+root          30  0.0  0.0      0     0 ?        S    Feb16   0:00 [ksoftirqd/3]
+root          32  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kworker/3:0H-kblockd]
+root          33  0.0  0.0      0     0 ?        S    Feb16   0:00 [kdevtmpfs]
+root          34  0.0  0.0      0     0 ?        I<   Feb16   0:00 [netns]
+root          35  0.0  0.0      0     0 ?        S    Feb16   0:00 [rcu_tasks_kthre]
+root          36  0.0  0.0      0     0 ?        S    Feb16   0:00 [rcu_tasks_rude_]
+root          37  0.0  0.0      0     0 ?        S    Feb16   0:00 [rcu_tasks_trace]
+root          38  0.0  0.0      0     0 ?        S    Feb16   0:05 [kauditd]
+root          39  0.0  0.0      0     0 ?        S    Feb16   0:00 [khungtaskd]
+root          40  0.0  0.0      0     0 ?        S    Feb16   0:00 [oom_reaper]
+root          41  0.0  0.0      0     0 ?        I<   Feb16   0:00 [writeback]
+root          42  0.0  0.0      0     0 ?        S    Feb16   0:00 [kcompactd0]
+root          43  0.0  0.0      0     0 ?        SN   Feb16   0:00 [ksmd]
+root          44  0.0  0.0      0     0 ?        SN   Feb16   0:00 [khugepaged]
+root          93  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kintegrityd]
+root          94  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kblockd]
+root          95  0.0  0.0      0     0 ?        I<   Feb16   0:00 [blkcg_punt_bio]
+root          96  0.0  0.0      0     0 ?        I<   Feb16   0:00 [tpm_dev_wq]
+root          97  0.0  0.0      0     0 ?        I<   Feb16   0:00 [ata_sff]
+root          98  0.0  0.0      0     0 ?        I<   Feb16   0:00 [md]
+root          99  0.0  0.0      0     0 ?        I<   Feb16   0:00 [edac-poller]
+root         100  0.0  0.0      0     0 ?        I<   Feb16   0:00 [devfreq_wq]
+root         101  0.0  0.0      0     0 ?        S    Feb16   0:00 [watchdogd]
+root         103  0.0  0.0      0     0 ?        I<   Feb16   0:00 [pm_wq]
+root         105  0.0  0.0      0     0 ?        S    Feb16   0:01 [kswapd0]
+root         106  0.0  0.0      0     0 ?        S    Feb16   0:00 [ecryptfs-kthrea]
+root         108  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kthrotld]
+root         109  0.0  0.0      0     0 ?        I<   Feb16   0:00 [acpi_thermal_pm]
+root         110  0.0  0.0      0     0 ?        S    Feb16   0:00 [scsi_eh_0]
+root         111  0.0  0.0      0     0 ?        I<   Feb16   0:00 [scsi_tmf_0]
+root         112  0.0  0.0      0     0 ?        S    Feb16   0:00 [scsi_eh_1]
+root         113  0.0  0.0      0     0 ?        I<   Feb16   0:00 [scsi_tmf_1]
+root         115  0.0  0.0      0     0 ?        I<   Feb16   0:00 [vfio-irqfd-clea]
+root         117  0.0  0.0      0     0 ?        I<   Feb16   0:00 [ipv6_addrconf]
+root         126  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kstrp]
+root         129  0.0  0.0      0     0 ?        I<   Feb16   0:00 [zswap-shrink]
+root         130  0.0  0.0      0     0 ?        I<   Feb16   0:00 [kworker/u9:0]
+root         135  0.0  0.0      0     0 ?        I<   Feb16   0:00 [charger_manager]
+root         136  0.0  0.0      0     0 ?        I<   Feb16   0:02 [kworker/3:1H-kblockd]
+root         187  0.0  0.0      0     0 ?        S    Feb16   0:00 [scsi_eh_2]
+root         188  0.0  0.0      0     0 ?        I<   Feb16   0:00 [scsi_tmf_2]
+root         193  0.0  0.0      0     0 ?        I<   Feb16   0:05 [kworker/2:1H-kblockd]
+root         212  0.0  0.0      0     0 ?        I<   Feb16   0:04 [kworker/0:1H-kblockd]
+root         214  0.0  0.0      0     0 ?        S    Feb16   0:03 [jbd2/sda5-8]
+root         215  0.0  0.0      0     0 ?        I<   Feb16   0:00 [ext4-rsv-conver]
+root         216  0.0  0.0      0     0 ?        I<   Feb16   0:04 [kworker/1:1H-kblockd]
+root         255  0.0  3.9 424772 254340 ?       S<s  Feb16   0:58 /lib/systemd/systemd-journald
+root         283  0.0  0.0      0     0 ?        S    Feb16   0:02 [irq/18-vmwgfx]
+root         284  0.0  0.0      0     0 ?        I<   Feb16   0:00 [ttm_swap]
+root         290  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop0]
+root         295  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop1]
+root         300  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop2]
+root         305  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop3]
+root         306  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop4]
+root         312  0.0  0.0  23816  5748 ?        Ss   Feb16   0:00 /lib/systemd/systemd-udevd
+root         313  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop5]
+root         314  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop6]
+root         315  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop7]
+root         316  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop8]
+root         317  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop9]
+root         319  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop10]
+root         320  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop11]
+root         321  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop12]
+root         322  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop13]
+root         323  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop14]
+root         349  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop15]
+root         352  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop16]
+root         353  0.0  0.0      0     0 ?        S<   Feb16   0:00 [loop17]
+root         390  0.0  0.0      0     0 ?        I<   Feb16   0:00 [cryptd]
+systemd+     650  0.0  0.1  25248 12308 ?        Ss   Feb16   0:03 /lib/systemd/systemd-resolved
+systemd+     651  0.0  0.0  90424  5628 ?        Ssl  Feb16   0:00 /lib/systemd/systemd-timesyncd
+root         698  0.0  0.1 244424  7880 ?        Ssl  Feb16   0:02 /usr/lib/accountsservice/accounts-daemon
+root         699  0.0  0.0   2548   708 ?        Ss   Feb16   0:00 /usr/sbin/acpid
+avahi        702  0.0  0.0   8512  3220 ?        Ss   Feb16   0:00 avahi-daemon: running [nanautzin-ubuntu.local]
+root         703  0.0  0.0  11952  2952 ?        Ss   Feb16   0:00 /usr/sbin/cron -f
+message+     705  0.0  0.0   8960  5704 ?        Ss   Feb16   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         706  0.0  0.2 488472 16744 ?        Ssl  Feb16   0:02 /usr/sbin/NetworkManager --no-daemon
+root         715  0.0  0.0  81820  3692 ?        Ssl  Feb16   0:01 /usr/sbin/irqbalance --foreground
+root         716  0.0  0.2  41844 17164 ?        Ss   Feb16   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         719  0.0  0.1 247592 10696 ?        Ssl  Feb16   0:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       723  0.0  0.0 224332  4420 ?        Ssl  Feb16   0:02 /usr/sbin/rsyslogd -n -iNONE
+root         725  0.0  0.2 1534428 18184 ?       Ssl  Feb16   0:03 /usr/lib/snapd/snapd
+root         726  0.0  0.0 238140  6028 ?        Ssl  Feb16   0:00 /usr/libexec/switcheroo-control
+root         732  0.0  0.1  16948  7776 ?        Ss   Feb16   0:00 /lib/systemd/systemd-logind
+root         735  0.0  0.1 395864 11876 ?        Ssl  Feb16   0:00 /usr/lib/udisks2/udisksd
+root         736  0.0  0.0  13672  3888 ?        Ss   Feb16   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        738  0.0  0.0   8328   304 ?        S    Feb16   0:00 avahi-daemon: chroot helper
+root         785  0.0  0.1 240008  8476 ?        Ssl  Feb16   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         791  0.0  0.2 120364 17696 ?        Ssl  Feb16   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         808  0.0  0.1 242040  8404 ?        Ssl  Feb16   0:00 /usr/sbin/gdm3
+root         823  0.0  0.1 316924  9512 ?        Sl   Feb16   0:00 gdm-session-worker [pam/gdm-autologin]
+whoopsie     846  0.0  0.2 327232 13136 ?        Ssl  Feb16   0:00 /usr/bin/whoopsie -f
+kernoops     848  0.0  0.0  11248   376 ?        Ss   Feb16   0:01 /usr/sbin/kerneloops --test
+kernoops     850  0.0  0.0  11248   444 ?        Ss   Feb16   0:01 /usr/sbin/kerneloops
+nanautz+     903  0.0  0.2  23808 13924 ?        Ss   Feb16   0:00 /lib/systemd/systemd --user
+nanautz+     905  0.0  0.0 169160  2908 ?        S    Feb16   0:00 (sd-pam)
+nanautz+     927  0.1  0.2 2197216 14044 ?       S<sl Feb16   1:29 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+nanautz+     929  0.0  0.2 513916 17808 ?        SNsl Feb16   0:00 /usr/libexec/tracker-miner-fs
+nanautz+     932  0.0  0.1 390320  6864 ?        SLl  Feb16   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+nanautz+     936  0.0  0.0 166576  5988 tty2     Ssl+ Feb16   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+nanautz+     938  0.6  1.7 915356 113588 tty2    Sl+  Feb16   9:17 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+rtkit        939  0.0  0.0 152924  2976 ?        SNsl Feb16   0:00 /usr/libexec/rtkit-daemon
+nanautz+     945  0.0  0.1  11660  8564 ?        Ss   Feb16   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+nanautz+     948  0.0  0.1 242264  6956 ?        Ssl  Feb16   0:00 /usr/libexec/gvfsd
+nanautz+     953  0.0  0.1 382060  6476 ?        Sl   Feb16   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+nanautz+     961  0.0  0.1 320000 10008 ?        Ssl  Feb16   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+nanautz+     969  0.0  0.0 238244  6088 ?        Ssl  Feb16   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+nanautz+     983  0.0  0.1 242828  7472 ?        Ssl  Feb16   0:00 /usr/libexec/gvfs-goa-volume-monitor
+nanautz+     987  0.0  0.9 765332 58904 ?        SLl  Feb16   0:02 /usr/libexec/goa-daemon
+nanautz+    1007  0.0  0.1 321240  8168 ?        Sl   Feb16   0:00 /usr/libexec/goa-identity-service
+nanautz+    1015  0.0  0.1 319300  8504 ?        Ssl  Feb16   0:02 /usr/libexec/gvfs-afc-volume-monitor
+nanautz+    1020  0.0  0.1 240520  6716 ?        Ssl  Feb16   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+root        1024  0.0  0.1 254664  8788 ?        Ssl  Feb16   0:00 /usr/lib/upower/upowerd
+nanautz+    1031  0.0  0.1 193392  9724 tty2     Sl+  Feb16   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+nanautz+    1117  0.0  0.0   6040    36 ?        Ss   Feb16   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+nanautz+    1134  0.0  0.1 317512  7112 ?        Ssl  Feb16   0:03 /usr/bin/ibus-daemon --daemonize --xim
+nanautz+    1138  0.0  0.1 168964  7068 ?        Sl   Feb16   0:00 /usr/libexec/ibus-memconf
+nanautz+    1140  0.0  0.8 1014512 52752 ?       Sl   Feb16   0:00 /usr/libexec/ibus-ui-gtk3
+nanautz+    1142  0.0  0.7 972716 46736 ?        Sl   Feb16   0:01 /usr/libexec/ibus-extension-gtk3
+nanautz+    1147  0.0  0.6 895008 42268 ?        Sl   Feb16   0:00 /usr/libexec/ibus-x11 --kill-daemon
+nanautz+    1150  0.0  0.1 242764  7328 ?        Sl   Feb16   0:00 /usr/libexec/ibus-portal
+nanautz+    1186  0.0  0.1 309764  7868 ?        Ssl  Feb16   0:00 /usr/libexec/at-spi-bus-launcher
+nanautz+    1191  0.0  0.0   7356  4072 ?        S    Feb16   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+nanautz+    1200  0.0  0.0 162892  6096 ?        Sl   Feb16   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+nanautz+    1202  0.0  0.1 1006056 8760 ?        Ssl  Feb16   0:01 /usr/libexec/xdg-desktop-portal
+nanautz+    1216  0.0  0.0 459964  6072 ?        Ssl  Feb16   0:00 /usr/libexec/xdg-document-portal
+nanautz+    1219  0.0  0.0 238140  4356 ?        Ssl  Feb16   0:00 /usr/libexec/xdg-permission-store
+nanautz+    1228  0.0  0.3 500704 24864 ?        Ssl  Feb16   0:00 /usr/libexec/xdg-desktop-portal-gtk
+nanautz+    1237  0.0  0.0 156324  5732 ?        Sl   Feb16   0:00 /usr/libexec/dconf-service
+nanautz+    1250  0.0  0.0  92584  4280 ?        Ssl  Feb16   0:00 /usr/libexec/gnome-session-ctl --monitor
+nanautz+    1257  0.0  0.2 825240 13180 ?        Ssl  Feb16   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+nanautz+    1271  2.9  5.8 4848448 372236 ?      Ssl  Feb16  41:20 /usr/bin/gnome-shell
+nanautz+    1295  0.0  0.1 169088  7100 ?        Sl   Feb16   0:00 /usr/libexec/ibus-engine-simple
+nanautz+    1351  0.0  0.2 862360 15976 ?        Sl   Feb16   0:00 /usr/libexec/gnome-shell-calendar-server
+nanautz+    1359  0.0  0.3 1076628 23896 ?       Ssl  Feb16   0:00 /usr/libexec/evolution-source-registry
+geoclue     1363  0.0  0.2 364336 15652 ?        Ssl  Feb16   0:00 /usr/libexec/geoclue
+nanautz+    1369  0.0  0.0 164756  6116 ?        Ssl  Feb16   0:00 /usr/libexec/gvfsd-metadata
+nanautz+    1381  0.0  0.5 1680472 33336 ?       Ssl  Feb16   0:01 /usr/libexec/evolution-calendar-factory
+nanautz+    1390  0.0  0.1 320248  8752 ?        Sl   Feb16   0:00 /usr/libexec/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+nanautz+    1396  0.0  0.3 2736452 20348 ?       Sl   Feb16   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+nanautz+    1411  0.0  0.2 675904 16860 ?        Ssl  Feb16   0:00 /usr/libexec/evolution-addressbook-factory
+nanautz+    1434  0.0  0.1 316496  7404 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-a11y-settings
+nanautz+    1435  0.0  0.3 499400 24132 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-color
+nanautz+    1436  0.0  0.1 376928 11760 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-datetime
+nanautz+    1437  0.0  0.1 316776  7912 ?        Ssl  Feb16   0:01 /usr/libexec/gsd-housekeeping
+nanautz+    1439  0.0  0.3 350912 23472 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-keyboard
+nanautz+    1442  0.0  0.3 906264 25264 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-media-keys
+nanautz+    1446  0.0  0.3 425200 24436 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-power
+nanautz+    1448  0.0  0.1 250792  9876 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-print-notifications
+nanautz+    1449  0.0  0.0 459676  5876 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-rfkill
+nanautz+    1450  0.0  0.0 238084  6076 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-screensaver-proxy
+nanautz+    1451  0.0  0.1 471548  9876 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-sharing
+nanautz+    1454  0.0  0.1 320656  7388 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-smartcard
+nanautz+    1455  0.0  0.1 324344  8996 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-sound
+nanautz+    1458  0.0  0.1 390456  7808 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-usb-protection
+nanautz+    1459  0.0  0.3 350432 22996 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-wacom
+nanautz+    1463  0.0  0.1 320820  8152 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-wwan
+nanautz+    1469  0.0  0.3 351572 23956 ?        Ssl  Feb16   0:00 /usr/libexec/gsd-xsettings
+nanautz+    1504  0.0  0.5 862496 34780 ?        Sl   Feb16   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+nanautz+    1518  0.0  0.0 231800  5864 ?        Sl   Feb16   0:00 /usr/libexec/gsd-disk-utility-notify
+nanautz+    1538  0.0  4.6 1357648 295428 ?      Sl   Feb16   0:09 /snap/snap-store/518/usr/bin/snap-store --gapplication-service
+nanautz+    1543  0.0  0.1 344752 12008 ?        Sl   Feb16   0:00 /usr/libexec/gsd-printer
+colord      1604  0.0  0.2 251508 13020 ?        Ssl  Feb16   0:00 /usr/libexec/colord
+nanautz+    2104  0.8  4.4 1403324 281388 ?      SLl  Feb16  11:41 /opt/google/chrome/chrome
+nanautz+    2110  0.0  0.0  10760   524 ?        S    Feb16   0:00 cat
+nanautz+    2111  0.0  0.0  10760   520 ?        S    Feb16   0:00 cat
+nanautz+    2114  0.0  0.7 253700 46784 ?        S    Feb16   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef,
+nanautz+    2115  0.0  0.7 253700 47708 ?        S    Feb16   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef,
+nanautz+    2116  0.0  0.0  10776  2916 ?        S    Feb16   0:00 /opt/google/chrome/nacl_helper
+nanautz+    2119  0.0  0.2 253700 14924 ?        S    Feb16   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef,
+nanautz+    2143  3.9  4.0 790336 261692 ?       Sl   Feb16  55:23 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=10378521565758128802,6769700888965501474,131072 --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --gpu-preferences=QAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --shared-files
+nanautz+    2148  0.0  1.4 368388 92920 ?        SLl  Feb16   1:22 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --service-sandbox-type=network --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --shared-files=v8_context_snapshot_data:100
+nanautz+    2176  0.0  0.5 317780 35156 ?        Sl   Feb16   0:01 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --service-sandbox-type=utility --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --shared-files=v8_context_snapshot_data:100
+nanautz+    2196  0.0  2.0 4609924 133128 ?      Sl   Feb16   0:25 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2208  1.4  7.0 9476120 452796 ?      Sl   Feb16  20:08 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=15 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2240  0.0  2.9 4685180 185504 ?      Sl   Feb16   0:58 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2290  0.0  1.8 15100952 117592 ?     Sl   Feb16   0:14 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2296  0.0  3.2 4711736 208880 ?      Sl   Feb16   0:43 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2302  0.0  3.0 4748468 197244 ?      Sl   Feb16   0:05 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2323  0.0  1.6 4600144 105520 ?      Sl   Feb16   0:06 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=10 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2334  0.0  1.4 4580768 92628 ?       Sl   Feb16   0:11 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=11 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2380  0.3  2.1 4698212 135984 ?      Sl   Feb16   5:10 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=37 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2399  0.0  0.8 568696 57016 ?        Sl   Feb16   0:16 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --service-sandbox-type=none --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --shared-files=v8_context_snapshot_data:100
+nanautz+    2495  0.0  2.0 4631252 128096 ?      Sl   Feb16   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=45 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2496  0.1  3.6 4747476 233060 ?      Sl   Feb16   1:36 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --extension-process --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=14 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2497  0.0  2.1 4661616 136168 ?      Sl   Feb16   1:03 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=16 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2533  0.0  1.7 4610516 114104 ?      Sl   Feb16   0:27 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=46 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2544  0.1  5.6 4984508 362124 ?      Sl   Feb16   1:53 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=35 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2555  0.0  2.2 4644504 146832 ?      Sl   Feb16   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=47 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2567  0.0  1.8 8874116 120056 ?      Sl   Feb16   0:02 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=40 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2604  0.0  2.4 4681712 156212 ?      Sl   Feb16   0:31 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=17 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2615  0.0  1.8 4613480 116728 ?      Sl   Feb16   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=36 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2629  0.0  2.3 4721224 151048 ?      Sl   Feb16   0:33 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=25 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2641  0.0  2.3 4662576 146992 ?      Sl   Feb16   0:28 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=22 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2652  0.0  2.2 4628592 140524 ?      Sl   Feb16   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=20 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    2665  0.0  0.4 426312 26976 ?        Sl   Feb16   0:01 update-notifier
+nanautz+    4676  0.0  3.4 4721740 221480 ?      Sl   Feb16   0:53 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=23 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+    5090  0.3  1.9 4952600 121832 ?      Sl   Feb16   4:42 /snap/discord/120/usr/share/discord/Discord --no-sandbox
+nanautz+    5172  0.0  0.6 389060 40600 ?        S    Feb16   0:00 /snap/discord/120/usr/share/discord/Discord --type=zygote --no-zygote-sandbox --no-sandbox
+nanautz+    5173  0.0  0.6 389060 40332 ?        S    Feb16   0:00 /snap/discord/120/usr/share/discord/Discord --type=zygote --no-sandbox
+nanautz+    5206  0.0  0.8 475092 57284 ?        Sl   Feb16   0:07 /snap/discord/120/usr/share/discord/Discord --type=utility --field-trial-handle=837437650657281793,7996608423332205784,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-GB --service-sandbox-type=network --no-sandbox --enable-crash-reporter=db8332b0-ae46-4c33-b040-f23fb8d597f8,no_channel --global-crash-keys=db8332b0-ae46-4c33-b040-f23fb8d597f8,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --shared-files=v8_snapshot_data:100
+nanautz+    5243  1.2  0.8 471536 56940 ?        Sl   Feb16  16:25 /snap/discord/120/usr/share/discord/Discord --type=gpu-process --field-trial-handle=837437650657281793,7996608423332205784,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --no-sandbox --enable-crash-reporter=db8332b0-ae46-4c33-b040-f23fb8d597f8,no_channel --global-crash-keys=db8332b0-ae46-4c33-b040-f23fb8d597f8,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA= --use-gl=swiftshader-webgl --shared-files
+nanautz+    5256  3.4  4.2 17929952 268944 ?     Sl   Feb16  44:05 /snap/discord/120/usr/share/discord/Discord --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --field-trial-handle=837437650657281793,7996608423332205784,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --disable-gpu-compositing --lang=en-GB --enable-crash-reporter=db8332b0-ae46-4c33-b040-f23fb8d597f8,no_channel --global-crash-keys=db8332b0-ae46-4c33-b040-f23fb8d597f8,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --app-path=/snap/discord/120/usr/share/discord/resources/app.asar --no-sandbox --no-zygote --native-window-open --preload=/home/nanautzin/snap/discord/120/.config/discord/0.0.13/modules/discord_desktop_core/core.asar/app/mainScreenPreload.js --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100 --enable-node-leakage-in-renderers
+nanautz+    5280  0.0  0.7 724848 46988 ?        Sl   Feb16   0:01 /snap/discord/120/usr/share/discord/Discord --type=utility --field-trial-handle=837437650657281793,7996608423332205784,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-GB --service-sandbox-type=audio --no-sandbox --enable-crash-reporter=db8332b0-ae46-4c33-b040-f23fb8d597f8,no_channel --global-crash-keys=db8332b0-ae46-4c33-b040-f23fb8d597f8,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --shared-files=v8_snapshot_data:100
+root       17692  0.0  0.0      0     0 ?        I    Feb16   0:01 [kworker/0:2-events]
+root       18773  0.0  0.0      0     0 ?        I    Feb16   0:01 [kworker/2:2-events]
+nanautz+   20041  0.0  2.0 4613664 128708 ?      Sl   Feb16   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=62 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+   20345  0.0  2.3 8957224 151456 ?      Sl   Feb16   0:03 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=70 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+   20528  3.9  3.1 4896508 199600 ?      Sl   Feb16  20:04 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=81 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+root       24649  0.0  0.0      0     0 ?        I    Feb16   0:00 [kworker/1:2-events]
+root       26163  0.0  0.0      0     0 ?        I    00:00   0:00 [kworker/0:1-ata_sff]
+root       26167  0.0  0.1  31072  7204 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+root       26168  0.0  0.1 180432 10056 ?        Ssl  00:00   0:00 /usr/sbin/cups-browsed
+root       28361  0.0  0.0      0     0 ?        I    01:59   0:00 [kworker/u8:1-events_unbound]
+root       28565  0.0  0.0      0     0 ?        I    02:10   0:00 [kworker/u8:2-ext4-rsv-conversion]
+nanautz+   28850  0.2  1.9 4648952 123288 ?      Sl   02:20   0:05 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=33 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+   28926  0.1  2.1 4888448 134656 ?      SLsl 02:21   0:03 /snap/code/55/usr/share/code/code --force-user-env --no-sandbox --unity-launch --no-sandbox
+nanautz+   28928  0.0  0.6 361748 44484 ?        S    02:21   0:00 /snap/code/55/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox
+nanautz+   28929  0.0  0.6 361748 44540 ?        S    02:21   0:00 /snap/code/55/usr/share/code/code --type=zygote --no-sandbox
+nanautz+   28965  0.0  1.1 459548 75668 ?        Sl   02:21   0:00 /snap/code/55/usr/share/code/code --type=gpu-process --field-trial-handle=5062349869783979347,16934257867133343625,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --disable-color-correct-rendering --no-sandbox --enable-crash-reporter=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel --global-crash-keys=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.53.2 --gpu-preferences=OAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA== --use-gl=swiftshader-webgl --shared-files
+nanautz+   28968  0.0  1.0 446436 66280 ?        Sl   02:21   0:00 /snap/code/55/usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=5062349869783979347,16934257867133343625,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --lang=en-GB --service-sandbox-type=network --no-sandbox --enable-crash-reporter=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel --global-crash-keys=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.53.2 --standard-schemes=vscode-webview,vscode-webview-resource,vscode-file --secure-schemes=vscode-webview,vscode-webview-resource,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-webview-resource,vscode-file --fetch-schemes=vscode-webview,vscode-webview-resource,vscode-file --service-worker-schemes --streaming-schemes --shared-files=v8_context_snapshot_data:100
+nanautz+   28986  0.4  3.7 15460684 237740 ?     Sl   02:21   0:09 /snap/code/55/usr/share/code/code --type=renderer --disable-color-correct-rendering --no-sandbox --field-trial-handle=5062349869783979347,16934257867133343625,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --disable-gpu-compositing --lang=en-GB --enable-crash-reporter=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel --global-crash-keys=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.53.2 --standard-schemes=vscode-webview,vscode-webview-resource,vscode-file --secure-schemes=vscode-webview,vscode-webview-resource,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-webview-resource,vscode-file --fetch-schemes=vscode-webview,vscode-webview-resource,vscode-file --service-worker-schemes --streaming-schemes --app-path=/snap/code/55/usr/share/code/resources/app --node-integration --webview-tag --no-sandbox --no-zygote --native-window-open --preload=/snap/code/55/usr/share/code/resources/app/out/vs/base/parts/sandbox/electron-browser/preload.js --background-color=#1e1e1e --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+   29021  0.0  0.0  13416  4784 pts/0    Ss+  02:21   0:00 /bin/bash
+nanautz+   29028  0.1  2.9 4815440 188028 ?      Sl   02:21   0:03 /snap/code/55/usr/share/code/code --inspect-port=0 /snap/code/55/usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost
+nanautz+   29037  0.0  1.2 4637576 82968 ?       Sl   02:21   0:00 /snap/code/55/usr/share/code/code /snap/code/55/usr/share/code/resources/app/out/bootstrap-fork --type=watcherService
+nanautz+   29058  0.0  1.0 4634504 67132 ?       Sl   02:21   0:00 /snap/code/55/usr/share/code/code /snap/code/55/usr/share/code/resources/app/out/bootstrap-fork --type=searchService
+nanautz+   29060  0.0  1.9 4786196 123544 ?      Sl   02:21   0:01 /snap/code/55/usr/share/code/code --type=renderer --disable-color-correct-rendering --no-sandbox --field-trial-handle=5062349869783979347,16934257867133343625,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --disable-gpu-compositing --lang=en-GB --enable-crash-reporter=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel --global-crash-keys=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.53.2 --standard-schemes=vscode-webview,vscode-webview-resource,vscode-file --secure-schemes=vscode-webview,vscode-webview-resource,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-webview-resource,vscode-file --fetch-schemes=vscode-webview,vscode-webview-resource,vscode-file --service-worker-schemes --streaming-schemes --app-path=/snap/code/55/usr/share/code/resources/app --node-integration --no-sandbox --no-zygote --native-window-open --preload=/snap/code/55/usr/share/code/resources/app/out/vs/base/parts/sandbox/electron-browser/preload.js --background-color=#1e1e1e --disable-blink-features=Auxclick --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+   29117  0.0  0.0   2620   540 ?        S    02:21   0:00 /bin/sh -c "/home/nanautzin/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3629/dotnet_modules/vsls-agent" --autoexit --enableRpcInitialize --pipe vscode.85030b2d4e15c4c2fd528f7958e6e5ef --service https://prod.liveshare.vsengsaas.visualstudio.com/ --signalRServiceUri https://signlr-prod.core.vsengsaas.visualstudio.com/api/signalr/signalrhub --agentExtensionPath "/home/nanautzin/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3629/dotnet_modules/Microsoft.VisualStudio.LiveShare.Agent.PresenceService.dll"
+nanautz+   29118  0.1  1.5 3777580 96328 ?       SLl  02:21   0:02 /home/nanautzin/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3629/dotnet_modules/vsls-agent --autoexit --enableRpcInitialize --pipe vscode.85030b2d4e15c4c2fd528f7958e6e5ef --service https://prod.liveshare.vsengsaas.visualstudio.com/ --signalRServiceUri https://signlr-prod.core.vsengsaas.visualstudio.com/api/signalr/signalrhub --agentExtensionPath /home/nanautzin/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.3629/dotnet_modules/Microsoft.VisualStudio.LiveShare.Agent.PresenceService.dll
+nanautz+   29180  0.0  1.5 4614392 97180 ?       Sl   02:21   0:00 /snap/code/55/usr/share/code/code /snap/code/55/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain --node-ipc --clientProcessId=29028
+nanautz+   29181  0.0  1.1 4597152 71256 ?       Sl   02:21   0:00 /snap/code/55/usr/share/code/code /snap/code/55/usr/share/code/resources/app/extensions/css-language-features/server/dist/node/cssServerMain --node-ipc --clientProcessId=29028
+nanautz+   29182  0.0  0.9 4595104 63492 ?       Sl   02:21   0:00 /snap/code/55/usr/share/code/code /snap/code/55/usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=29028
+nanautz+   29205  0.2  1.7 4687668 113652 ?      Sl   02:21   0:04 /snap/code/55/usr/share/code/code --type=renderer --disable-color-correct-rendering --no-sandbox --field-trial-handle=5062349869783979347,16934257867133343625,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --disable-databases --disable-gpu-compositing --lang=en-GB --enable-crash-reporter=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel --global-crash-keys=b73dc69b-8f98-471f-abcb-0305f96a516a,no_channel,_companyName=Microsoft,_productName=VSCode,_version=1.53.2 --standard-schemes=vscode-webview,vscode-webview-resource,vscode-file --secure-schemes=vscode-webview,vscode-webview-resource,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-webview-resource,vscode-file --fetch-schemes=vscode-webview,vscode-webview-resource,vscode-file --service-worker-schemes --streaming-schemes --app-path=/snap/code/55/usr/share/code/resources/app --no-sandbox --no-zygote --native-window-open --preload=/snap/code/55/usr/share/code/resources/app/out/vs/workbench/contrib/webview/electron-browser/pre/electron-index.js --context-isolation --background-color=#fff --guest-instance-id=3 --enable-blink-features --disable-blink-features --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=10 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+   29358  0.0  2.4 8876176 157796 ?      Sl   02:23   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=86 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+root       30036  0.0  0.0      0     0 ?        I    02:38   0:00 [kworker/2:1]
+root       30127  0.0  0.0      0     0 ?        I    02:38   0:00 [kworker/1:1-events]
+root       30128  0.0  0.0      0     0 ?        I    02:38   0:00 [kworker/3:0-events]
+root       30130  0.0  0.0      0     0 ?        I    02:38   0:00 [kworker/3:4-events]
+nanautz+   30271  0.2  0.8 965016 51588 ?        Ssl  02:42   0:01 /usr/libexec/gnome-terminal-server
+nanautz+   30282  0.0  0.0  13520  5296 pts/1    Ss   02:42   0:00 bash
+root       30406  0.0  0.0      0     0 ?        I    02:44   0:00 [kworker/u8:0-ext4-rsv-conversion]
+nanautz+   30872  0.5  1.9 4613380 125376 ?      Sl   02:52   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10378521565758128802,6769700888965501474,131072 --lang=en-GB --enable-crash-reporter=949dbe4b-85ad-4a0f-add9-df7f60278cef, --origin-trial-disabled-features=SecurePaymentConfirmation --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=96 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+nanautz+   31087  0.0  0.0  14024  3316 pts/1    R+   02:56   0:00 ps aux
